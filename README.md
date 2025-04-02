@@ -1,6 +1,7 @@
 ## 👩🏻‍💻Luana Neves
 
 
+
 <a href="https://instagram.com/luana_silva_neves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/luananeves_" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luana.silva.neves.lsn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -37,7 +38,14 @@
 />
 
 <br/>
-<br/>
+
+<div>
+ 
+   <a href="https://github.com/Lua99sn">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lua99sn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lua99sn&layout=compact&langs_count=6&theme=tokyonight"/>
+    
+</div>
 
 ## Animação
 
